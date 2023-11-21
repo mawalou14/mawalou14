@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Angular Applications**
 
-- 🌱 I’m currently learning **Angular, Flutter**
+- 🌱 I’m currently learning **Angular, Express**
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **Angular, Express**
 
 - 📫 How to reach me **awaloum213@gmail.com**
 
