@@ -32,6 +32,7 @@
    <a href="https://www.linkedin.com/in/mawalou14">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
    <a href="https://pin.it/2hQBuyo">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white"/>
   </a>
