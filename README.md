@@ -25,25 +25,31 @@
   <a href="mailto:mohamadou.awalou@africaleadcorporation.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
    <a href="https://github.com/mawalou14">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="https://www.linkedin.com/in/mawalou14">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   <a href="https://pin.it/2hQBuyo">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the badge&logo=Pinterest&logoColor=white"/>
+  </a>
 </div>
 <hr />
-<h2 align="center"> Languages - Frameworks - Tools <h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️<h2>
   <br />
   <div align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=git,github,bootstrap,css,docker,figma,firebase,heroku,html,js,kubernetes,mongodb,mysql,nestjs,netlify,nodejs,ps,php,postgres,postman,react,ts,vscode,wordpress,androidstudio,githubactions&perline=8" />
-    </a>
+      <img align="center" src="https://skillicons.dev/icons?i=css,html,js,php,ts,bootstrap,angular,nestjs,nodejs,react,git,github,docker,figma,firebase,heroku,kubernetes,mongodb,mysql,netlify,nodejs,ps,postgres,postman,vscode,wordpress,androidstudio,githubactions&perline=8" />
+      <br/>
+      </a>
   </div>
 
   <br/>
 
   <hr />
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>🐍 My Contributions 🐍</h2>
 
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mawalou14/mawalou14/output/github-contribution-grid-snake.svg" />
@@ -51,7 +57,7 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center"> Stats </h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=mawalou14&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
