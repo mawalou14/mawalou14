@@ -21,7 +21,7 @@ jobs:
         -  name: Clone repo
            uses: actions/checkout@v3
 
-        -  name: Generate the snake files in './dist/'
+        -  name: Generate the snake files
            uses: Platane/snk@v2
            id: snake-gif
            with:
