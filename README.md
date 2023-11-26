@@ -17,6 +17,8 @@
   
   💬 Ask me about **Angular, nestJS ExpressJS, React Native, Postgres Database, ... or anything**
 
+  ⚡ I also build beautifull **HTML, CSS Templates**
+
   ⚡ Fun fact **I'm so funny, Playing football, swimming, Video Gaming**  
   
 </div>
