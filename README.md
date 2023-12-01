@@ -19,7 +19,7 @@
 
   ⚡ I also build beautifull **HTML, CSS Templates**
 
-  ⚡ Fun fact **I'm so funny, Playing football, swimming, Video Gaming**  
+  ⚡ Fun fact **I'm so funny, Playing football, swimming, Video Gaming...**  
   
 </div>
 
