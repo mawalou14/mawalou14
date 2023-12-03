@@ -67,7 +67,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=mawalou14&count_private=true&theme=radical&border_radius=10" alt="streak stats" />
 <!--   https://github-readme-stats.vercel.app/api?username=anuraghazr -->
 <!--   https://github-readme-stats.vercel.app/api?username=mawalou14&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10 -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mawalou14&count_private=true" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mawalou14&count_private=true&count_public=true" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawalou14&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
