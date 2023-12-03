@@ -61,7 +61,7 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡ </h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=mawalou14&count_private=true&theme=radical&border_radius=10" alt="streak stats" 
