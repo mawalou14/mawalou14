@@ -61,6 +61,25 @@
   <br/><br/><br/>
 </div>
 
+<!-- My Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+    <table>
+        <tr>
+            <td width="50%">
+                <h3 align="center">🔹 Todo Management API (.NET API 8)</h3>
+                <p align="center">
+                    <a href="https://github.com/mawalou14/TodoManagementApi" target="_blank">
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawalou14&repo=TodoManagementApi&theme=radical" alt="TodoManagementApi"/>
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br/>
+
 <h2 align="center">⚡ Stats ⚡ </h2>
 <br>
 <div align="center">
