@@ -78,7 +78,7 @@
                 <h3 align="center">🔹 Todo Management App (Angular 16)</h3>
                 <p align="center">
                     <a href="https://github.com/mawalou14/TodoManagementApp" target="_blank">
-                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawalou14&repo=TodoManagementApi&theme=radical" alt="TodoManagementApi"/>
+                        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mawalou14&repo=TodoManagementApp&theme=radical" alt="TodoManagementApp"/>
                     </a>
                 </p>
             </td>
