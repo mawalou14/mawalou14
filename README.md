@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  🔭 **Angular** Expert
+  🔭 **Angular** Expert and
   🔭 **Dot Net (.NET)** Intermidiate Developper.
   🌱 I'm currently learning **React Native**
   
