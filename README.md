@@ -12,10 +12,11 @@
 
 <div align="center">
   
-  🔭 I'm currently working on an **Angular Application**
-  🌱 I'm currently learning **NestJS**
+  🔭 **Angular** Expert
+  🔭 **Dot Net (.NET)** Intermidiate Developper.
+  🌱 I'm currently learning **React Native**
   
-  💬 Ask me about **Angular, nestJS ExpressJS, React Native, Postgres Database, ... or anything**
+  💬 Ask me about **Angular, .NET, React Native, Postgres Database, ... or anything**
 
   ⚡ I also build beautifull **HTML, CSS Templates**
 
