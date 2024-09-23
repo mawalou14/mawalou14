@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mawalou14.mawalou14&format=true" />
 
-[![An image of @mawalou14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mawalou14)](https://holopin.io/@mawalou14)
-
 <h1 align="center" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+Welcome!+👋;I'm+mawalou14!" />
@@ -63,6 +61,8 @@
 
   <br/><br/><br/>
 </div>
+
+[![An image of @mawalou14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mawalou14)](https://holopin.io/@mawalou14)
 
 <!-- My Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
